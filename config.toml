@@ -1,4 +1,4 @@
-baseURL = "https://sangarshanan.github.io/the-nosy-intern"
+baseURL = "https://the-nosy-intern.netlify.app/"
 
 theme = 'hugo-bearblog'
 
