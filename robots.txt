@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://sangarshanan.github.io/the-nosy-intern/sitemap.xml
+Sitemap: https://the-nosy-intern.netlify.app/sitemap.xml
