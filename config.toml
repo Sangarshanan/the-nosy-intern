@@ -1,0 +1,30 @@
+baseURL = "https://example.com"
+
+theme = 'hugo-bearblog'
+
+# Basic metadata 
+title = "The Nosy Intern Inc."
+author = "Sangarshanan"
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  community = "/:slug/"
+  tags = "/community/:slug"
+
+[params]
+  description = "Create stuff for the heck of it"
+
+  favicon = "images/favicon.png"
+
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  images = ["images/share.png"]
+
+  # the site_name on the Hugo's internal
+  title = "The Nosy Intern"
