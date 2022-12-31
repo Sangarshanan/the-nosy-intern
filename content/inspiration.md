@@ -1,5 +1,5 @@
 +++
-title = "Links"
+title = "Inspiration"
 menu = "main"
 +++
 
