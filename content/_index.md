@@ -1,16 +1,11 @@
-## New website! Who dis ?
+**Do you miss the rush of being an intern?**  
+**Do you miss feeding your curiosity and building cool shit for the sake of it?**
 
-We want to find people with common interests and help create a COMMUNITY ! Let's learn, build & break things together
+We do too!   
+We are a community of hackers with similar interests with the goal of learning, building, and breaking things together and having fun while doing it.
 
-We are just developers who really miss the rush of being an intern, just feed your curiosity everyday and build cool shit without the consequences. We WANT to create this with a community of people who have a singular goal: Learn, Build & Have Fun
+If you are looking for something similar, join us!
 
----
-
-## Mission Statements (Corporate edition)
-
-- Create something for the heck of it
-- Get back rush of being an Intern
-  
-Let us all be
+[//]: # (Add Joining CTA)
 
 **Unbothered. Moisturized. Happy. In our Lane. Focused. NewFlourishing**
