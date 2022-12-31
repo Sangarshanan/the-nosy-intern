@@ -7,5 +7,3 @@ We are a community of hackers with similar interests with the goal of learning, 
 If you are looking for something similar, join us!
 
 [//]: # (Add Joining CTA)
-
-**Unbothered. Moisturized. Happy. In our Lane. Focused. NewFlourishing**
